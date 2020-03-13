@@ -1,0 +1,14 @@
+body{
+
+   background-image: linear-gradient(to right,red,yellow,blue);
+}
+
+#templete{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    color:black;
+    font-size: 25px;
+}
